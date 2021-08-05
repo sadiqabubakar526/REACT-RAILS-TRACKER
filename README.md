@@ -2,18 +2,15 @@
 
 > A Simple Tracker mobile app built with React & [Rails API](https://github.com/Kyle-Law/rails-tracker-api).
 
-## Snapshots
-
-![image](https://user-images.githubusercontent.com/55923773/93202925-1ea48c00-f786-11ea-8b30-88b865301d19.png)
+## 
 
 ## Presentations
 
-- View the live version [HERE](https://kyle-tracker.herokuapp.com/)
-- View the project walkthrough [HERE](https://youtu.be/P-J-hmt4AMY)
+- View the live version [HERE](https://react-rails-tracker.netlify.app/)
+- View the project walkthrough [HERE](https://github.com/sadiqabubakar526)
 
 ## Rails Backend API Association Diagram
 
-![image](https://user-images.githubusercontent.com/55923773/93226288-bbc2ed00-f7a5-11ea-9d0b-83064fc83207.png)
 
 ## Built With
 
@@ -36,7 +33,7 @@
 3. `10 passed, 10 total` will be shown. :)
 
 ## Authors
-Suraj Abubakar Dulah
+Suraj Abubakar Dulah<br>
 Arya harun
 
 ## 🤝 Contributing
