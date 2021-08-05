@@ -17,6 +17,7 @@ button {
   border: 1px solid #5b8092;
   background-color: #4cb5e8;
   color: white;
+  border-radius: 8px;
 }
 
 header {
