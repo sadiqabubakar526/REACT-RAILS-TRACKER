@@ -41,20 +41,21 @@ header h1 {
 
 .login-container {
   text-align: center;
-  padding: 20px;
+  padding: 18px;
 }
 
 .login-container form {
   display: grid;
   grid-gap: 20px;
-  font-size: 20px;
+  font-size: 18px;
 }
 
 .login-container input,
 .login-container button {
   font-size: 18px;
   padding: 5px;
-  border-radius: 8px;
+  border-radius: 10px;
+  border:2px solid #240b36;
 }
 
 nav {
@@ -74,7 +75,7 @@ nav a,
 nav div {
   font-size: 0.5rem;
   text-decoration: none;
-  background-color: #5b8092;
+  background-color: #c31432;
   text-align: center;
   text-transform: uppercase;
   color: white;
