@@ -38,7 +38,6 @@ header h1 {
   text-transform: uppercase;
   letter-spacing: 2px;
   text-align: center;
-  border-radius: 2px 2px 8px 8px;
 }
 
 .login-container {
@@ -73,7 +72,7 @@ nav {
   right: 0;
   left: 0;
   z-index: 2;
-  background-color: blue;
+  background-color: #240b36;
   font-weight: 800;
   grid-template-columns: repeat(5, 1fr);
 }
@@ -82,7 +81,7 @@ nav a,
 nav div {
   font-size: 0.5rem;
   text-decoration: none;
-  background-color: #c31432;
+  background-color: dodgerblue;
   text-align: center;
   text-transform: uppercase;
   color: white;
