@@ -15,7 +15,7 @@ button {
 
 button {
   border: 1px solid #5b8092;
-  background-color: #4cb5e8;
+  background-image: linear-gradient(#c31432, #240b36);
   color: white;
   border-radius: 8px;
 }
