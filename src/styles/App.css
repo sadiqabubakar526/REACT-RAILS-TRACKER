@@ -81,7 +81,7 @@ nav a,
 nav div {
   font-size: 0.5rem;
   text-decoration: none;
-  background-color: dodgerblue;
+  background-color: linear-gradient(to right, #c31432, #240b36);
   text-align: center;
   text-transform: uppercase;
   color: white;
@@ -111,6 +111,7 @@ nav div {
   margin-bottom: 50px;
   overflow: scroll;
   margin-top: 65px;
+  border:2px solid #240b36;
 }
 
 .home-container {
@@ -126,6 +127,7 @@ nav div {
   display: grid;
   font-size: 20px;
   grid-gap: 5px;
+  border-radius: 8px;
 }
 
 .add-record-form button,
