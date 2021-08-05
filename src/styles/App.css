@@ -27,6 +27,7 @@ header {
   top: 0;
   left: 0;
   right: 0;
+  border-radius: 0px 50px 50px 0px;
 }
 
 header h1 {
