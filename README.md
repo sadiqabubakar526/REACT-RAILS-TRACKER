@@ -36,27 +36,20 @@
 3. `10 passed, 10 total` will be shown. :)
 
 ## Authors
-
-👤 **Kyle Law**
-
-- Github: [@Kyle-Law](https://github.com/Kyle-Law)
-- Twitter: [@Kyle-Law](https://twitter.com/ZhunKhing)
-- Linkedin: [Kyle law](https://www.linkedin.com/in/kyle-lawzhunkhing/)
+Suraj Abubakar Dulah
+Arya harun
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/Kyle-Law/react-to-pokemon/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc).
+Feel free to check the [issues .
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
 
-- Microverse
-- [Gregoire Vella](https://www.behance.net/gregoirevella) for [design idea](https://www.behance.net/gallery/13271423/Bodytrackit-An-iOs-app-Branding-UX-and-UI)
 
 ## 📝 License
 
