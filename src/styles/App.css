@@ -98,7 +98,7 @@ nav div {
 }
 
 .active {
-  background-color: #4cb5e8;
+  background-color: #6E0DD0;
   clip-path: polygon(0 0, 40% 0, 50% 10%, 60% 0, 100% 0, 100% 100%, 0 100%);
 }
 
